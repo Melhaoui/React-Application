@@ -1,0 +1,29 @@
+.MuiTableCell-root.MuiTableCell-footer.MuiTablePagination-root.Component-paginationRoot-1 {
+    border: none;
+} 
+.layout__content-main  .MuiPaper-rounded {
+    border-radius:15px ;
+    
+}
+.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    display : block;
+    margin-left: auto;
+    padding : 7px ;
+    margin-top : 20px  ;
+    background-color : #349eff ; 
+    color : white ;
+    border : none ;
+}
+
+td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-alignRight {
+    text-align: left;
+}
+span.MuiButtonBase-root.MuiTableSortLabel-root {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content: flex-start;
+    
+    ;
+}
+

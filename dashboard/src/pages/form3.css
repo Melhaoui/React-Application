@@ -1,0 +1,94 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Outfit:wght@300&family=Roboto:wght@300;500&display=swap");
+
+section {
+    padding : 10px ;
+
+}
+section .title {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 15px;
+}
+
+section .form {
+    display : flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width : 95% ;
+    padding: 10px ;
+    border-radius: 7px;
+    background-color: #90909033;
+    
+}
+
+section .form .inputs1 {
+    display : flex;
+    width : 100%;
+    gap : 55px ;
+    justify-content: center;
+    align-items: center;
+    color : white;
+    margin-bottom: 10px ;
+}
+section .form .inputs1 input {
+    padding : 5px ;
+    width : 25%;
+    border-radius: 10px ;
+    color : white ;
+}
+
+section .form .inputs2 {
+    display : flex;
+    width : 100%;
+    gap : 55px ;
+    justify-content: center;
+    align-items: center;
+    color : white;
+    margin-bottom: 10px ;
+}
+section .form .inputs2 input {
+    padding : 5px ;
+    width : 25%;
+    border-radius: 10px ;
+    color : white ;
+}
+
+section .form .inputs3 {
+    display : flex;
+    width : 100%;
+    gap : 55px ;
+    justify-content: center;
+    align-items: center;
+    color : white;
+    margin-bottom: 10px ;
+}
+
+section .form .inputs3 input  {
+  padding : 10px ;
+  border-radius : 10px ;
+  width : 25%;
+  text-align: center;
+
+}
+
+section .form .inputs4 {
+    display : flex;
+    width : 100%;
+    gap : 55px ;
+    justify-content: center;
+    align-items: center;
+    color : white;
+    margin-bottom: 10px ;
+}
+section .form .inputs4 input {
+    padding : 10px ;
+    width : 30%;
+    text-align: center;
+    color : white ;
+}
+

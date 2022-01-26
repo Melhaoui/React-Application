@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-car",
+        "count": "100",
+        "title": "Places occupées"
+    },
+    {
+        "icon": "bx bxs-parking",
+        "count": "43",
+        "title": "Places libres"
+    },
+    {
+        "icon": "bx bx-money",
+        "count": "5dh",
+        "title": "Tarif par deux heures"
+    },
+    {
+        "icon": "bx bx-money",
+        "count": "30dh",
+        "title": "Tarif par jour"
+    }
+]
